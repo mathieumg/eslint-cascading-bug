@@ -1,0 +1,6 @@
+{
+  "rules": {
+    // Dummy.
+    "no-cond-assign": 2,
+  }
+}
